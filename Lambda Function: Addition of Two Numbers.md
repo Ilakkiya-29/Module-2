@@ -19,7 +19,7 @@ print(f(a,b))
 
 
 ## Output
-![Uploading image.png…]()
+<img width="461" height="186" alt="image" src="https://github.com/user-attachments/assets/2c222ae9-a0d5-4b11-9c0c-8e90e6915ba1" />
 
 ## Result
 Thus, the program has been successfully executed.
